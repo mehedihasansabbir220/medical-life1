@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Eye Care",
+        "description": "At UCLA Health, we provide innovative health care services from birth to 21 that focus on your child’s specific needs. Our pediatric and family medicine physicians deliver:",
+        "Child-friendly care": "Our experienced specialists provide the latest in pediatric care.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "img": "https://i.ibb.co/9W9rF6c/5768038.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Medical Checkup",
+        "description": "When patients choose UCLA Health, they benefit from working with leaders in the various cardiac fields. We have among the largest heart transplant and lung transplant programs in the country. And, we are a leading center in treating and managing heart failure.",
+        "Child-friendly care": "The UCLA Division of Heart and Vascular Services has been providing the most advanced, world-class cardiovascular care for more than 25 years. Nationally, we rank 9th in Cardiology, as determined by U.S. News & World Report.",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/wydfqN7/Hospital-ward-with-doctor-and-patient-on-adjustable-bed-Vector-cartoon-illustration-of-sick-woman-an.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dental Care",
+        "description": "Our neurosurgeons are leaders in their chosen field. Several of our program’s clinicians consistently rank among the “Best Doctors in America” by the American Health Council. Many of our researchers and scientists are recognized leaders in clinical neuroscience and neurobiology.",
+        "Child-friendly care": "We consistently rank among the best neurosurgery programs in the nation. U.S. News & World Report lists our neurosurgery and neurology programs as 8th in the country and the highest-ranked in Los Angeles. Highlights of our neurosurgery offerings include:",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/7gqgktd/Health-insurance-banner-Vector-poster-with-cartoon-illustration-of-clipboard-with-claim-form-shield.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cardiology",
+        "description": " A world-class medical center integrated with a research and teaching university, UCLA is consistently ranked by U.S. News & World Reports as the best medical center in the western United States and top hospitals in the country. More than 200 UCLA physicians are listed among the Best Doctors in America.",
+        "Child-friendly care": "Patients benefit from a full range of care and support services from doctors, clinics, centers and hospitals crossing over 40 scientific and medical disciplines. UCLA Health is consistently ranked by U.S. News & World Reports as one of the best cancer center in California, and top in the U.S.",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Laboratory Service",
+        "description": "We partner with you and your family to choose the treatment that results in excellent outcomes and maximizes your quality of life",
+        "Child-friendly care": "Our world-class experts consistently rank among  the country’s top glioma, skull base tumor and pituitary specialists. Our specialists treat tumors previously considered inoperable.",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/0Vh1Yj6/62797.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Vaccination",
+        "description": "Our physicians take time to ensure that you understand your diagnosis and know what to expect from your care. We aim to make you and your loved ones as comfortable as possible throughout your cancer journey. ",
+        "Child-friendly care": "Our innovative specialists are leaders in the field of colorectal surgery.",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/89vpnFQ/This-injury-is-not-a-serious-case.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Pediatrics",
+        "description": "We partner with you and your family in the decision-making process. We ensure that you have all the information you need to weigh your care options.",
+        "Child-friendly care": " Our specialists are passionate about leading-edge, innovative care. We offer the most up-to-date preventive, diagnostic and treatment options available.",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/frKRfhw/Doctor-working-with-laptop-computer-and-writing-on-paperwork-Hospital-background.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Cardiology",
+        "description": "CAR T-cell therapy activates a person’s immune system to fight off cancer. Immunotherapy is still relatively new, but it shows promise for adults and children for whom other treatments have stopped working.",
+        "Child-friendly care": "The physicians and researchers at UCLA Health are at the forefront of immune effector cell therapy innovation. In 2018, UCLA Health became one of the first hospitals in the nation to offer commercial CAR T-cell therapy to people whose cancer hasn’t responded to other treatments. In 2020, UCLA became one of the first to offer FDA-approved CAR T-cell therapy to treat relapsed or refractory mantle cell lymphoma, while previously offering the therapy to participants in clinical trials.",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/bvG7BrJ/Portrait-of-smiling-doctors-standing-together-in-corridor-at-hospital.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Neurosurgery",
+        "description": "UCLA Health’s genetic counselors support and gently guide you and your loved ones throughout the discovery process.",
+        "Child-friendly care": " Our genetic counselors provide tailored risk assessments using the most current tools and tests available.",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/Bwn53rq/Young-woman-pharmacist-at-pharmacy.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Cancer Care",
+        "description": "Our physicians take time to ensure that you understand your diagnosis and know what to expect from your care. We aim to make you and your loved ones as comfortable as possible throughout your cancer journey. ",
+        "Child-friendly care": "Our innovative specialists are leaders in the field of colorectal surgery.",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/b7ZM34g/Doctor-with-a-stethoscope-holding-a-world-globe-High-quality-photo.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Breast Cancer Care",
+        "description": "As an academic medical center, we have access to the latest research and technology. We are constantly searching for better ways to detect and treat esophageal cancer.",
+        "Child-friendly care": "Our skilled specialists know esophageal cancer, inside and out. That’s why hospitals around the country refer patients to us.",
+        "Convenience:": " Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth.",
+        "Partnership:": "We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion",
+        "img": "https://i.ibb.co/xfwgb6p/Doctor-giving-presentation-to-team-of-interim-doctors-at-conference-room.jpg"
+    }
+]

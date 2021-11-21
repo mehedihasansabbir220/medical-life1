@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11a5dd0e.chunk.css",
+    "main.js": "/static/js/main.6c513b69.chunk.js",
+    "main.js.map": "/static/js/main.6c513b69.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8496def.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8496def.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.35e4f05f.chunk.js": "/static/js/2.35e4f05f.chunk.js",
+    "static/js/2.35e4f05f.chunk.js.map": "/static/js/2.35e4f05f.chunk.js.map",
+    "static/js/3.13679df1.chunk.js": "/static/js/3.13679df1.chunk.js",
+    "static/js/3.13679df1.chunk.js.map": "/static/js/3.13679df1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.11a5dd0e.chunk.css.map": "/static/css/main.11a5dd0e.chunk.css.map",
+    "static/js/2.35e4f05f.chunk.js.LICENSE.txt": "/static/js/2.35e4f05f.chunk.js.LICENSE.txt",
+    "static/media/Carousel-2.d41668c9.png": "/static/media/Carousel-2.d41668c9.png",
+    "static/media/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture.77b8295d.jpg": "/static/media/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture.77b8295d.jpg",
+    "static/media/successful-medical-team.069c2a75.jpg": "/static/media/successful-medical-team.069c2a75.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8496def.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.35e4f05f.chunk.js",
+    "static/css/main.11a5dd0e.chunk.css",
+    "static/js/main.6c513b69.chunk.js"
+  ]
+}
